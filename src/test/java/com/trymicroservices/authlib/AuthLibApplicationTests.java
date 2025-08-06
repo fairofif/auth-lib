@@ -1,4 +1,4 @@
-package com.trymicroservices.auth_lib;
+package com.trymicroservices.authlib;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

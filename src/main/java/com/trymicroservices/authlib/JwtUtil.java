@@ -1,4 +1,4 @@
-package com.trymicroservices.auth_lib;
+package com.trymicroservices.authlib;
 
 import io.jsonwebtoken.Claims;
 import io.jsonwebtoken.Jwts;

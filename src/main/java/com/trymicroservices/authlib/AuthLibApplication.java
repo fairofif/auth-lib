@@ -1,4 +1,4 @@
-package com.trymicroservices.auth_lib;
+package com.trymicroservices.authlib;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
